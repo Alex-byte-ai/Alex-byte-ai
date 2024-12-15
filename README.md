@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alex-byte-ai
 - 👀 I’m interested in creative activities.
 - 🌱 I’m currently learning how to detect UB in my code automatically.
-- 💞️ I’m looking to collaborate on anything, i like good company, but i am busy getting some things in my life in order right now.
-- 📫 How to reach me: Use github, i am here.
+- 💞️ I’m looking to collaborate on anything, i like good company.
+- 📫 How to reach me: use github, i am here.
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: Some fungi can survive in space.
 
