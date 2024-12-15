@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-byte-ai
 - 👀 I’m interested in creative activities.
-- 🌱 I’m currently learning how to detect UB in my code automatically.
+- 🌱 I’m currently looking for a job.
 - 💞️ I’m looking to collaborate on anything, i like good company.
 - 📫 How to reach me: use github, i am here.
 - 😄 Pronouns: he/him/his.
