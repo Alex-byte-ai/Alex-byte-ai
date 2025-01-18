@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex-byte-ai
+﻿- 👋 Hi, I’m @Alex-byte-ai
 - 👀 I’m interested in creative activities.
 - 🌱 I’m currently looking for a job.
 - 💞️ I’m looking to collaborate on anything, i like good company.
